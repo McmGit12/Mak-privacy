@@ -1,0 +1,2 @@
+# Mak-privacy
+privacy policy
